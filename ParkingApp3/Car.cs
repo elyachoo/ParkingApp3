@@ -1,14 +1,6 @@
 ﻿namespace ParkingApp3
 {
-    /// <summary>
-    /// Initializes a new instance of the Car class with specified details.
-    /// </summary>
-    /// <param name="brand">The brand of the car.</param>
-    /// <param name="model">The model of the car.</param>
-    /// <param name="color">The color of the car.</param>
-    /// <param name="number">The license number of the car.</param>
-    /// <param name="arrivalTime">The arrival time of the car.</param>
-    /// <param name="departureTime">The departure time of the car.</param>
+  
     public class Car
     {
         /// <summary>
